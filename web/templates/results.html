@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Results - LLM Career Matcher</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <a href="/" class="navbar-brand">
+                <i class="fas fa-rocket"></i> Career Matcher
+            </a>
+            <div class="navbar-menu">
+                <a href="/" class="nav-link">Home</a>
+                <a href="/dashboard" class="nav-link">Dashboard</a>
+                <a href="/about" class="nav-link">About</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="container" style="padding: 3rem 1rem;">
+        <!-- Hero Section -->
+        <section class="hero" style="margin-bottom: 4rem;">
+            <h1>📊 Your Matching Results</h1>
+            <p class="lead">Detailed analysis of your resume-job compatibility</p>
+        </section>
+
+        <!-- Results Content -->
+        <div class="card" style="margin-bottom: 3rem;">
+            <div class="card-body">
+                <p style="text-align: center; color: var(--text-light);">
+                    Use the home page to upload your resume and view your personalized job matches.
+                </p>
+                <div style="text-align: center; margin-top: 2rem;">
+                    <a href="/" style="
+                        display: inline-block;
+                        background: var(--primary);
+                        color: white;
+                        padding: 0.75rem 2rem;
+                        border-radius: var(--radius);
+                        text-decoration: none;
+                        font-weight: 600;
+                        transition: var(--transition);
+                    " onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 10px 20px rgba(0,0,0,0.1)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
+                        Back to Home <i class="fas fa-home" style="margin-left: 0.5rem;"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer style="background: var(--gray-900); color: white; padding: 2rem 1rem; margin-top: 4rem; text-align: center;">
+        <div class="container">
+            <p style="margin: 0.5rem 0;">
+                <strong>LLM Career Matcher</strong> - Intelligent Resume-Job Matching System
+            </p>
+        </div>
+    </footer>
+</body>
+</html>

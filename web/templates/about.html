@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About - LLM Career Matcher</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <a href="/" class="navbar-brand">
+                <i class="fas fa-rocket"></i> Career Matcher
+            </a>
+            <div class="navbar-menu">
+                <a href="/" class="nav-link">Home</a>
+                <a href="/dashboard" class="nav-link">Dashboard</a>
+                <a href="/about" class="nav-link active">About</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="container" style="padding: 3rem 1rem;">
+        <!-- Hero Section -->
+        <section class="hero" style="margin-bottom: 4rem;">
+            <h1>About LLM Career Matcher</h1>
+            <p class="lead">Intelligent Resume-Job Matching Powered by AI</p>
+        </section>
+
+        <!-- Introduction -->
+        <section class="card" style="margin-bottom: 3rem;">
+            <div class="card-body">
+                <h2 style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1.5rem;">
+                    <i class="fas fa-lightbulb" style="color: var(--primary);"></i>
+                    Project Overview
+                </h2>
+                <p>
+                    The <strong>LLM Career Matcher</strong> is an intelligent system that leverages advanced AI and machine learning 
+                    to match job seekers with ideal career opportunities. Using Google's Gemini API and custom matching algorithms, 
+                    the system analyzes resumes and jobs at multiple levels to provide highly accurate placement recommendations.
+                </p>
+                <p style="color: var(--text-light);">
+                    This project demonstrates the practical application of Large Language Models (LLMs) in solving real-world 
+                    career placement challenges. Instead of simple keyword matching, our system understands the semantic meaning, 
+                    experience requirements, and skill domains to find truly suitable matches.
+                </p>
+            </div>
+        </section>
+
+        <!-- How It Works -->
+        <section style="margin-bottom: 3rem;">
+            <h2 style="display: flex; align-items: center; gap: 1rem; margin-bottom: 2rem;">
+                <i class="fas fa-cogs" style="color: var(--primary);"></i>
+                How It Works
+            </h2>
+
+            <div class="grid-2" style="margin-bottom: 2rem;">
+                <!-- Step 1 -->
+                <div class="card">
+                    <div class="card-body">
+                        <div style="font-size: 2rem; margin-bottom: 1rem; color: var(--primary);">
+                            <i class="fas fa-file-upload"></i>
+                        </div>
+                        <h3>Step 1: Resume Upload</h3>
+                        <p>Upload your resume in PDF or text format. The system securely stores and processes your document.</p>
+                    </div>
+                </div>
+
+                <!-- Step 2 -->
+                <div class="card">
+                    <div class="card-body">
+                        <div style="font-size: 2rem; margin-bottom: 1rem; color: var(--success);">
+                            <i class="fas fa-brain"></i>
+                        </div>
+                        <h3>Step 2: AI Analysis</h3>
+                        <p>Google's Gemini AI extracts and analyzes your skills, experience, and professional background.</p>
+                    </div>
+                </div>
+
+                <!-- Step 3 -->
+                <div class="card">
+                    <div class="card-body">
+                        <div style="font-size: 2rem; margin-bottom: 1rem; color: var(--info);">
+                            <i class="fas fa-chart-bar"></i>
+                        </div>
+                        <h3>Step 3: Matching Algorithm</h3>
+                        <p>Our 4-component algorithm analyzes job compatibility from multiple angles simultaneously.</p>
+                    </div>
+                </div>
+
+                <!-- Step 4 -->
+                <div class="card">
+                    <div class="card-body">
+                        <div style="font-size: 2rem; margin-bottom: 1rem; color: var(--warning);">
+                            <i class="fas fa-star"></i>
+                        </div>
+                        <h3>Step 4: Results</h3>
+                        <p>Receive ranked job matches with detailed scores and component breakdowns for each opportunity.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Algorithm -->
+        <section style="margin-bottom: 3rem;">
+            <h2 style="display: flex; align-items: center; gap: 1rem; margin-bottom: 2rem;">
+                <i class="fas fa-sliders-h" style="color: var(--primary);"></i>
+                Matching Algorithm
+            </h2>
+
+            <div class="card" style="margin-bottom: 2rem;">
+                <div class="card-body">
+                    <p style="margin-bottom: 2rem;">
+                        Our hybrid algorithm combines four complementary approaches to create a comprehensive match score:
+                    </p>
+
+                    <div class="grid-4" style="gap: 1.5rem; margin-bottom: 2rem;">
+                        <div class="text-center">
+                            <div style="font-size: 2rem; font-weight: bold; color: var(--primary); margin-bottom: 0.5rem;">40%</div>
+                            <div style="font-size: 0.875rem; color: var(--text-light);">Skill Matching</div>
+                            <div style="border-top: 3px solid var(--primary); margin-top: 1rem; padding-top: 1rem; font-size: 0.75rem; color: var(--text-light);">
+                                Technical skills overlap
+                            </div>
+                        </div>
+                        <div class="text-center">
+                            <div style="font-size: 2rem; font-weight: bold; color: var(--info); margin-bottom: 0.5rem;">35%</div>
+                            <div style="font-size: 0.875rem; color: var(--text-light);">Semantic Similarity</div>
+                            <div style="border-top: 3px solid var(--info); margin-top: 1rem; padding-top: 1rem; font-size: 0.75rem; color: var(--text-light);">
+                                AI understands context
+                            </div>
+                        </div>
+                        <div class="text-center">
+                            <div style="font-size: 2rem; font-weight: bold; color: var(--success); margin-bottom: 0.5rem;">15%</div>
+                            <div style="font-size: 0.875rem; color: var(--text-light);">Experience Level</div>
+                            <div style="border-top: 3px solid var(--success); margin-top: 1rem; padding-top: 1rem; font-size: 0.75rem; color: var(--text-light);">
+                                Career progression fit
+                            </div>
+                        </div>
+                        <div class="text-center">
+                            <div style="font-size: 2rem; font-weight: bold; color: var(--warning); margin-bottom: 0.5rem;">10%</div>
+                            <div style="font-size: 0.875rem; color: var(--text-light);">Domain Match</div>
+                            <div style="border-top: 3px solid var(--warning); margin-top: 1rem; padding-top: 1rem; font-size: 0.75rem; color: var(--text-light);">
+                                Industry expertise
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="alert alert-info">
+                        <i class="fas fa-circle-info" style="margin-right: 0.5rem;"></i>
+                        This multi-faceted approach ensures that matches are not just based on keyword matching, but on a deep understanding 
+                        of both the candidate's profile and the job requirements.
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Technology Stack -->
+        <section style="margin-bottom: 3rem;">
+            <h2 style="display: flex; align-items: center; gap: 1rem; margin-bottom: 2rem;">
+                <i class="fas fa-microchip" style="color: var(--primary);"></i>
+                Technology Stack
+            </h2>
+
+            <div class="grid-3">
+                <!-- Backend -->
+                <div class="card">
+                    <div class="card-header" style="background: linear-gradient(135deg, var(--primary), var(--info)); color: white; border-radius: var(--radius) var(--radius) 0 0;">
+                        <h3 style="margin: 0;">Backend</h3>
+                    </div>
+                    <div class="card-body">
+                        <ul style="list-style: none; padding: 0; margin: 0;">
+                            <li style="padding: 0.5rem 0; border-bottom: 1px solid var(--gray-200);">
+                                <strong>Flask 3.0</strong> - Web framework
+                            </li>
+                            <li style="padding: 0.5rem 0; border-bottom: 1px solid var(--gray-200);">
+                                <strong>Python 3.13</strong> - Runtime
+                            </li>
+                            <li style="padding: 0.5rem 0; border-bottom: 1px solid var(--gray-200);">
+                                <strong>sqlite3</strong> - Data persistence
+                            </li>
+                            <li style="padding: 0.5rem 0;">
+                                <strong>PyPDF2</strong> - Resume parsing
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- AI/ML -->
+                <div class="card">
+                    <div class="card-header" style="background: linear-gradient(135deg, var(--success), var(--info)); color: white; border-radius: var(--radius) var(--radius) 0 0;">
+                        <h3 style="margin: 0;">AI & Machine Learning</h3>
+                    </div>
+                    <div class="card-body">
+                        <ul style="list-style: none; padding: 0; margin: 0;">
+                            <li style="padding: 0.5rem 0; border-bottom: 1px solid var(--gray-200);">
+                                <strong>Google Gemini API</strong> - LLM
+                            </li>
+                            <li style="padding: 0.5rem 0; border-bottom: 1px solid var(--gray-200);">
+                                <strong>scikit-learn</strong> - NLP tools
+                            </li>
+                            <li style="padding: 0.5rem 0; border-bottom: 1px solid var(--gray-200);">
+                                <strong>numpy</strong> - Numerical computing
+                            </li>
+                            <li style="padding: 0.5rem 0;">
+                                <strong>cosine similarity</strong> - Semantic matching
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Frontend -->
+                <div class="card">
+                    <div class="card-header" style="background: linear-gradient(135deg, var(--warning), var(--danger)); color: white; border-radius: var(--radius) var(--radius) 0 0;">
+                        <h3 style="margin: 0;">Frontend</h3>
+                    </div>
+                    <div class="card-body">
+                        <ul style="list-style: none; padding: 0; margin: 0;">
+                            <li style="padding: 0.5rem 0; border-bottom: 1px solid var(--gray-200);">
+                                <strong>HTML5</strong> - Markup
+                            </li>
+                            <li style="padding: 0.5rem 0; border-bottom: 1px solid var(--gray-200);">
+                                <strong>CSS3</strong> - Styling
+                            </li>
+                            <li style="padding: 0.5rem 0; border-bottom: 1px solid var(--gray-200);">
+                                <strong>Vanilla JS</strong> - Interactivity
+                            </li>
+                            <li style="padding: 0.5rem 0;">
+                                <strong>Chart.js</strong> - Analytics
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Features -->
+        <section style="margin-bottom: 3rem;">
+            <h2 style="display: flex; align-items: center; gap: 1rem; margin-bottom: 2rem;">
+                <i class="fas fa-star" style="color: var(--primary);"></i>
+                Key Features
+            </h2>
+
+            <div class="grid-2">
+                <div style="display: flex; gap: 1.5rem;">
+                    <div style="color: var(--primary); font-size: 1.5rem; flex-shrink: 0;">
+                        <i class="fas fa-check-circle"></i>
+                    </div>
+                    <div>
+                        <h4 style="margin-top: 0;">AI-Powered Extraction</h4>
+                        <p style="color: var(--text-light); margin: 0.5rem 0 0 0;">
+                            Google Gemini API automatically extracts skills, experience, and expertise from resumes
+                        </p>
+                    </div>
+                </div>
+
+                <div style="display: flex; gap: 1.5rem;">
+                    <div style="color: var(--primary); font-size: 1.5rem; flex-shrink: 0;">
+                        <i class="fas fa-check-circle"></i>
+                    </div>
+                    <div>
+                        <h4 style="margin-top: 0;">Semantic Understanding</h4>
+                        <p style="color: var(--text-light); margin: 0.5rem 0 0 0;">
+                            Goes beyond keywords to understand meaning and context of skills and roles
+                        </p>
+                    </div>
+                </div>
+
+                <div style="display: flex; gap: 1.5rem;">
+                    <div style="color: var(--primary); font-size: 1.5rem; flex-shrink: 0;">
+                        <i class="fas fa-check-circle"></i>
+                    </div>
+                    <div>
+                        <h4 style="margin-top: 0;">Detailed Analytics</h4>
+                        <p style="color: var(--text-light); margin: 0.5rem 0 0 0;">
+                            Comprehensive dashboard showing system performance, score distributions, and insights
+                        </p>
+                    </div>
+                </div>
+
+                <div style="display: flex; gap: 1.5rem;">
+                    <div style="color: var(--primary); font-size: 1.5rem; flex-shrink: 0;">
+                        <i class="fas fa-check-circle"></i>
+                    </div>
+                    <div>
+                        <h4 style="margin-top: 0;">Component Breakdown</h4>
+                        <p style="color: var(--text-light); margin: 0.5rem 0 0 0;">
+                            Transparent scoring shows exactly how each component contributed to the final match score
+                        </p>
+                    </div>
+                </div>
+
+                <div style="display: flex; gap: 1.5rem;">
+                    <div style="color: var(--primary); font-size: 1.5rem; flex-shrink: 0;">
+                        <i class="fas fa-check-circle"></i>
+                    </div>
+                    <div>
+                        <h4 style="margin-top: 0;">Ranked Results</h4>
+                        <p style="color: var(--text-light); margin: 0.5rem 0 0 0;">
+                            Jobs ranked by match score with adjustable filtering and sorting options
+                        </p>
+                    </div>
+                </div>
+
+                <div style="display: flex; gap: 1.5rem;">
+                    <div style="color: var(--primary); font-size: 1.5rem; flex-shrink: 0;">
+                        <i class="fas fa-check-circle"></i>
+                    </div>
+                    <div>
+                        <h4 style="margin-top: 0;">Professional UI</h4>
+                        <p style="color: var(--text-light); margin: 0.5rem 0 0 0;">
+                            Clean, modern, and responsive interface that works on desktop and mobile devices
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Data -->
+        <section style="margin-bottom: 3rem;">
+            <h2 style="display: flex; align-items: center; gap: 1rem; margin-bottom: 2rem;">
+                <i class="fas fa-database" style="color: var(--primary);"></i>
+                Data
+            </h2>
+
+            <div class="card">
+                <div class="card-body">
+                    <p style="margin-bottom: 1.5rem;">
+                        The system was trained and evaluated on comprehensive datasets:
+                    </p>
+
+                    <div class="grid-2">
+                        <div style="padding: 1.5rem; background: var(--gray-50); border-radius: var(--radius);">
+                            <div style="font-size: 1.5rem; font-weight: bold; color: var(--primary); margin-bottom: 0.5rem;">60+</div>
+                            <div style="color: var(--text-light);">Sample Resumes</div>
+                            <p style="margin: 0.5rem 0 0 0; font-size: 0.875rem; color: var(--text-light);">
+                                Diverse profiles from various industries and experience levels
+                            </p>
+                        </div>
+
+                        <div style="padding: 1.5rem; background: var(--gray-50); border-radius: var(--radius);">
+                            <div style="font-size: 1.5rem; font-weight: bold; color: var(--info); margin-bottom: 0.5rem;">22</div>
+                            <div style="color: var(--text-light);">Job Positions</div>
+                            <p style="margin: 0.5rem 0 0 0; font-size: 0.875rem; color: var(--text-light);">
+                                Across multiple roles, companies, and industries
+                            </p>
+                        </div>
+
+                        <div style="padding: 1.5rem; background: var(--gray-50); border-radius: var(--radius);">
+                            <div style="font-size: 1.5rem; font-weight: bold; color: var(--success); margin-bottom: 0.5rem;">1,320</div>
+                            <div style="color: var(--text-light);">Comparisons</div>
+                            <p style="margin: 0.5rem 0 0 0; font-size: 0.875rem; color: var(--text-light);">
+                                Total resume-job matches analyzed and scored
+                            </p>
+                        </div>
+
+                        <div style="padding: 1.5rem; background: var(--gray-50); border-radius: var(--radius);">
+                            <div style="font-size: 1.5rem; font-weight: bold; color: var(--warning); margin-bottom: 0.5rem;">74.25%</div>
+                            <div style="color: var(--text-light);">Average Score</div>
+                            <p style="margin: 0.5rem 0 0 0; font-size: 0.875rem; color: var(--text-light);">
+                                Mean match quality across all comparisons
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact -->
+        <section style="margin-bottom: 3rem;">
+            <div class="card" style="background: linear-gradient(135deg, var(--primary), var(--info)); color: white;">
+                <div class="card-body">
+                    <h2 style="color: white; margin-top: 0;">Get Started</h2>
+                    <p style="margin-bottom: 1.5rem;">
+                        Ready to find your perfect job match?
+                    </p>
+                    <a href="/" style="
+                        display: inline-block;
+                        background: white;
+                        color: var(--primary);
+                        padding: 0.75rem 2rem;
+                        border-radius: var(--radius);
+                        text-decoration: none;
+                        font-weight: 600;
+                        transition: var(--transition);
+                    " onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 10px 20px rgba(0,0,0,0.1)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
+                        Start Matching <i class="fas fa-arrow-right" style="margin-left: 0.5rem;"></i>
+                    </a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer style="background: var(--gray-900); color: white; padding: 2rem 1rem; margin-top: 4rem; text-align: center;">
+        <div class="container">
+            <p style="margin: 0.5rem 0;">
+                <strong>LLM Career Matcher</strong> - Intelligent Resume-Job Matching System
+            </p>
+            <p style="color: var(--gray-400); font-size: 0.875rem; margin: 0.5rem 0;">
+                Powered by Google Gemini AI | Built with Flask, React-free UI, and Python
+            </p>
+        </div>
+    </footer>
+</body>
+</html>

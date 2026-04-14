@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - Career Placement Engine</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar-container">
+            <div class="navbar-logo">
+                <i class="fas fa-robot"></i> LLM Career Placement Engine
+            </div>
+            <ul class="nav-menu">
+                <li><a href="/" class="nav-link">Upload</a></li>
+                <li><a href="/dashboard" class="nav-link active">Dashboard</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container">
+        <section class="dashboard-section">
+            <h1>📊 System Analytics & Performance Report</h1>
+
+            <!-- Summary Statistics -->
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <i class="fas fa-file-alt"></i>
+                    <div>
+                        <p class="stat-value" id="totalResumes">0</p>
+                        <p class="stat-label">Total Resumes Processed</p>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <i class="fas fa-briefcase"></i>
+                    <div>
+                        <p class="stat-value" id="totalJobs">0</p>
+                        <p class="stat-label">Total Job Listings</p>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <i class="fas fa-chart-line"></i>
+                    <div>
+                        <p class="stat-value" id="avgScore">0%</p>
+                        <p class="stat-label">Average Match Score</p>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <i class="fas fa-check-circle"></i>
+                    <div>
+                        <p class="stat-value" id="totalMatches">0</p>
+                        <p class="stat-label">Total Comparisons</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Metrics Section -->
+            <div class="metrics-grid">
+                <div class="metric-card">
+                    <h3>Score Distribution</h3>
+                    <canvas id="scoreChart"></canvas>
+                </div>
+                <div class="metric-card">
+                    <h3>Score Statistics</h3>
+                    <div class="stats-list">
+                        <div class="stat-item">
+                            <span>Mean Score:</span>
+                            <strong id="meanScore">0%</strong>
+                        </div>
+                        <div class="stat-item">
+                            <span>Median Score:</span>
+                            <strong id="medianScore">0%</strong>
+                        </div>
+                        <div class="stat-item">
+                            <span>Min Score:</span>
+                            <strong id="minScore">0%</strong>
+                        </div>
+                        <div class="stat-item">
+                            <span>Max Score:</span>
+                            <strong id="maxScore">0%</strong>
+                        </div>
+                        <div class="stat-item">
+                            <span>Std Dev:</span>
+                            <strong id="stdDev">0</strong>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Role Analysis -->
+            <div class="analysis-section">
+                <h3>🎯 Role-Based Analysis</h3>
+                <div class="analysis-grid">
+                    <div class="analysis-card same-role">
+                        <h4>Same-Role Matches</h4>
+                        <p class="count" id="sameRoleCount">0</p>
+                        <p class="avg-score">Avg: <strong id="sameRoleAvg">0%</strong></p>
+                    </div>
+                    <div class="analysis-card diff-role">
+                        <h4>Different-Role Matches</h4>
+                        <p class="count" id="diffRoleCount">0</p>
+                        <p class="avg-score">Avg: <strong id="diffRoleAvg">0%</strong></p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Key Observations -->
+            <div class="observations-section">
+                <h3>💡 Key Observations</h3>
+                <div id="observationsList" class="observations-list"></div>
+            </div>
+
+            <!-- Algorithm Components -->
+            <div class="algorithm-section">
+                <h3>⚙️ Matching Algorithm Components</h3>
+                <div class="algorithm-info">
+                    <div class="component">
+                        <span class="weight">40%</span>
+                        <span class="name">Skill Overlap</span>
+                        <span class="desc">Jaccard similarity of technical skills</span>
+                    </div>
+                    <div class="component">
+                        <span class="weight">35%</span>
+                        <span class="name">Semantic Similarity</span>
+                        <span class="desc">Cosine similarity of skill embeddings</span>
+                    </div>
+                    <div class="component">
+                        <span class="weight">15%</span>
+                        <span class="name">Experience Match</span>
+                        <span class="desc">Experience level alignment</span>
+                    </div>
+                    <div class="component">
+                        <span class="weight">10%</span>
+                        <span class="name">Domain Match</span>
+                        <span class="desc">Domain expertise relevance</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Download Report -->
+            <div class="download-section">
+                <button class="btn btn-primary" id="downloadReport">
+                    <i class="fas fa-download"></i> Download Full Report (JSON)
+                </button>
+                <p class="text-muted">Export complete evaluation data for further analysis</p>
+            </div>
+        </section>
+    </div>
+
+    <footer class="footer">
+        <p>LLM Career Placement Engine | Built with <i class="fas fa-heart"></i> using Python, Flask & Google Gemini</p>
+    </footer>
+
+    <script src="{{ url_for('static', filename='dashboard.js') }}"></script>
+</body>
+</html>
