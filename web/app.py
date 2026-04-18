@@ -3,24 +3,29 @@ LLM Career Placement Engine - Flask Web Application
 Professional version with proper project structure
 """
 
-from flask import Flask, render_template, request, jsonify
-import json
+import sys
 import os
 from pathlib import Path
+from flask import Flask, render_template, request, jsonify
+import json
+
+# Add project root to Python path
+PROJECT_ROOT = Path(__file__).parent.parent.absolute()
+sys.path.insert(0, str(PROJECT_ROOT))
 
 # Import backend modules
 from src.job_parser import JobParser
 from src.skill_extractor import SkillExtractor
 from src.matching_engine import MatchingEngine
-from config import PROJECT_ROOT, WEIGHTS
+from config import WEIGHTS
 
 # Configuration
 class Config:
     """Application configuration"""
-    UPLOAD_FOLDER = 'web/uploads'
+    UPLOAD_FOLDER = os.path.join(PROJECT_ROOT, 'web', 'uploads')
     MAX_CONTENT_LENGTH = 20 * 1024 * 1024  # 20MB
-    TEMPLATE_FOLDER = 'web/templates'
-    STATIC_FOLDER = 'web/static'
+    TEMPLATE_FOLDER = os.path.join(PROJECT_ROOT, 'web', 'templates')
+    STATIC_FOLDER = os.path.join(PROJECT_ROOT, 'web', 'static')
 
 # Create Flask app
 app = Flask(__name__, 

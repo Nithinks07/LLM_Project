@@ -1,0 +1,43 @@
+JOHN SMITH
+john.smith@email.com | +1-555-0123
+
+PROFESSIONAL SUMMARY
+Experienced Software Engineer with 5 years of expertise in full-stack development using Python, JavaScript, and cloud technologies. Proven track record of designing scalable applications and leading cross-functional teams.
+
+TECHNICAL SKILLS
+Languages: Python, JavaScript, SQL, Java
+Frameworks: Django, Flask, React, FastAPI
+Databases: PostgreSQL, MongoDB, Redis
+Cloud: AWS, Google Cloud Platform, Docker
+Tools: Git, Jenkins, Kubernetes, Docker
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | TechCorp Inc. (2021 - Present)
+- Led development of microservices architecture using Python and Docker
+- Managed team of 4 engineers on critical features
+- Improved API response time by 40% through optimization
+- Implemented CI/CD pipeline using Jenkins and Kubernetes
+
+Software Engineer | DataXpress (2019 - 2021)
+- Built real-time data processing pipeline using Python and Spark
+- Developed REST APIs using Django and FastAPI
+- Implemented machine learning models for data analysis
+- Collaborated with product team on feature requirements
+
+Junior Developer | StartupAI (2018 - 2019)
+- Developed full-stack web applications using React and Flask
+- Created automated testing suite using pytest
+- Contributed to open-source projects
+- Participated in agile development process
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Technology, 2018
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect
+- Google Cloud Professional Data Engineer
+
+DOMAINS
+Data Science, Cloud Architecture, Backend Development, DevOps, Full-Stack Development
