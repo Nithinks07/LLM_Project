@@ -1,0 +1,482 @@
+[
+  {
+    "name": "David AI",
+    "email": "david.ai@tech.com",
+    "phone": "+91-90391-86759",
+    "target_role": "Software Engineer",
+    "years_experience": 5,
+    "resume_text": "\nRESUME\n======\n\nName: David AI\nEmail: david.ai@tech.com\nPhone: +91-90391-86759\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nDavid AI is a Software Engineer with 5 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nPython, Django, PostgreSQL, Communication, Team Collaboration\n\nEXPERIENCE\nSoftware Engineer at Microsoft\nDuration: 5 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- AWS Certified\n"
+  },
+  {
+    "name": "Nikhil Rao",
+    "email": "nikhil.rao@yahoo.com",
+    "phone": "+91-96140-45327",
+    "target_role": "Software Engineer",
+    "years_experience": 2,
+    "resume_text": "\nRESUME\n======\n\nName: Nikhil Rao\nEmail: nikhil.rao@yahoo.com\nPhone: +91-96140-45327\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nNikhil Rao is a Software Engineer with 2 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nPython, JavaScript, SQL, Problem Solving, Communication\n\nEXPERIENCE\nSoftware Engineer at Amazon\nDuration: 2 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Azure Certified\n"
+  },
+  {
+    "name": "Divya Iyer",
+    "email": "divya.iyer@gmail.com",
+    "phone": "+91-94674-86659",
+    "target_role": "Software Engineer",
+    "years_experience": 8,
+    "resume_text": "\nRESUME\n======\n\nName: Divya Iyer\nEmail: divya.iyer@gmail.com\nPhone: +91-94674-86659\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nDivya Iyer is a Software Engineer with 8 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nC++, System Design, Microservices, Team Collaboration, Communication\n\nEXPERIENCE\nSoftware Engineer at Microsoft\nDuration: 8 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Azure Certified\n"
+  },
+  {
+    "name": "Sarah Tech",
+    "email": "sarah.tech@outlook.com",
+    "phone": "+91-90539-53398",
+    "target_role": "Software Engineer",
+    "years_experience": 8,
+    "resume_text": "\nRESUME\n======\n\nName: Sarah Tech\nEmail: sarah.tech@outlook.com\nPhone: +91-90539-53398\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nSarah Tech is a Software Engineer with 8 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nPython, Django, PostgreSQL, Communication, Team Collaboration\n\nEXPERIENCE\nSoftware Engineer at Amazon\nDuration: 8 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Scrum Master\n"
+  },
+  {
+    "name": "Neha Gupta",
+    "email": "neha.gupta@gmail.com",
+    "phone": "+91-98643-12395",
+    "target_role": "Software Engineer",
+    "years_experience": 8,
+    "resume_text": "\nRESUME\n======\n\nName: Neha Gupta\nEmail: neha.gupta@gmail.com\nPhone: +91-98643-12395\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nNeha Gupta is a Software Engineer with 8 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nPython, Django, PostgreSQL, Team Collaboration, Problem Solving\n\nEXPERIENCE\nSoftware Engineer at Startup\nDuration: 8 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- AWS Certified\n"
+  },
+  {
+    "name": "Nikhil Rao",
+    "email": "nikhil.rao@company.com",
+    "phone": "+91-96045-55672",
+    "target_role": "Software Engineer",
+    "years_experience": 1,
+    "resume_text": "\nRESUME\n======\n\nName: Nikhil Rao\nEmail: nikhil.rao@company.com\nPhone: +91-96045-55672\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nNikhil Rao is a Software Engineer with 1 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nJava, Spring Boot, Docker, Team Collaboration, Problem Solving\n\nEXPERIENCE\nSoftware Engineer at Infosys\nDuration: 1 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Scrum Master\n"
+  },
+  {
+    "name": "Rohan Mehta",
+    "email": "rohan.mehta@tech.com",
+    "phone": "+91-98983-80351",
+    "target_role": "Software Engineer",
+    "years_experience": 1,
+    "resume_text": "\nRESUME\n======\n\nName: Rohan Mehta\nEmail: rohan.mehta@tech.com\nPhone: +91-98983-80351\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nRohan Mehta is a Software Engineer with 1 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nPython, Django, PostgreSQL, Communication, Problem Solving\n\nEXPERIENCE\nSoftware Engineer at TCS\nDuration: 1 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Scrum Master\n"
+  },
+  {
+    "name": "Aditya Verma",
+    "email": "aditya.verma@yahoo.com",
+    "phone": "+91-90082-40953",
+    "target_role": "Software Engineer",
+    "years_experience": 7,
+    "resume_text": "\nRESUME\n======\n\nName: Aditya Verma\nEmail: aditya.verma@yahoo.com\nPhone: +91-90082-40953\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nAditya Verma is a Software Engineer with 7 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nJava, Spring Boot, Docker, Problem Solving, Team Collaboration\n\nEXPERIENCE\nSoftware Engineer at Startup\nDuration: 7 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Azure Certified\n"
+  },
+  {
+    "name": "Sarah Tech",
+    "email": "sarah.tech@outlook.com",
+    "phone": "+91-95127-12290",
+    "target_role": "Software Engineer",
+    "years_experience": 6,
+    "resume_text": "\nRESUME\n======\n\nName: Sarah Tech\nEmail: sarah.tech@outlook.com\nPhone: +91-95127-12290\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nSarah Tech is a Software Engineer with 6 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nC++, System Design, Microservices, Team Collaboration, Problem Solving\n\nEXPERIENCE\nSoftware Engineer at TCS\nDuration: 6 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Scrum Master\n"
+  },
+  {
+    "name": "Vikram Sharma",
+    "email": "vikram.sharma@yahoo.com",
+    "phone": "+91-91837-48114",
+    "target_role": "Software Engineer",
+    "years_experience": 6,
+    "resume_text": "\nRESUME\n======\n\nName: Vikram Sharma\nEmail: vikram.sharma@yahoo.com\nPhone: +91-91837-48114\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nVikram Sharma is a Software Engineer with 6 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nC++, System Design, Microservices, Problem Solving, Team Collaboration\n\nEXPERIENCE\nSoftware Engineer at Infosys\nDuration: 6 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Scrum Master\n"
+  },
+  {
+    "name": "Deepak Nair",
+    "email": "deepak.nair@outlook.com",
+    "phone": "+91-91885-25680",
+    "target_role": "Software Engineer",
+    "years_experience": 0,
+    "resume_text": "\nRESUME\n======\n\nName: Deepak Nair\nEmail: deepak.nair@outlook.com\nPhone: +91-91885-25680\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nDeepak Nair is a Software Engineer with 0 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nC++, System Design, Microservices, Team Collaboration, Problem Solving\n\nEXPERIENCE\nSoftware Engineer at Amazon\nDuration: 0 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Scrum Master\n"
+  },
+  {
+    "name": "Rahul Patel",
+    "email": "rahul.patel@company.com",
+    "phone": "+91-97633-85137",
+    "target_role": "Software Engineer",
+    "years_experience": 2,
+    "resume_text": "\nRESUME\n======\n\nName: Rahul Patel\nEmail: rahul.patel@company.com\nPhone: +91-97633-85137\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nRahul Patel is a Software Engineer with 2 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nC++, System Design, Microservices, Problem Solving, Communication\n\nEXPERIENCE\nSoftware Engineer at Infosys\nDuration: 2 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Azure Certified\n"
+  },
+  {
+    "name": "Divya Iyer",
+    "email": "divya.iyer@outlook.com",
+    "phone": "+91-97942-83722",
+    "target_role": "Data Scientist",
+    "years_experience": 5,
+    "resume_text": "\nRESUME\n======\n\nName: Divya Iyer\nEmail: divya.iyer@outlook.com\nPhone: +91-97942-83722\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nDivya Iyer is a Data Scientist with 5 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nPyTorch, NLP, Python, Presentation, Statistical Thinking\n\nEXPERIENCE\nData Scientist at Analytics Firm\nDuration: 5 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Google Cloud Certified\n"
+  },
+  {
+    "name": "Sanjay Kumar",
+    "email": "sanjay.kumar@tech.com",
+    "phone": "+91-97943-20537",
+    "target_role": "Data Scientist",
+    "years_experience": 7,
+    "resume_text": "\nRESUME\n======\n\nName: Sanjay Kumar\nEmail: sanjay.kumar@tech.com\nPhone: +91-97943-20537\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nSanjay Kumar is a Data Scientist with 7 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nPython, Machine Learning, SQL, Presentation, Statistical Thinking\n\nEXPERIENCE\nData Scientist at Google\nDuration: 7 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Azure Certified\n"
+  },
+  {
+    "name": "Sarah Tech",
+    "email": "sarah.tech@yahoo.com",
+    "phone": "+91-96979-19471",
+    "target_role": "Data Scientist",
+    "years_experience": 0,
+    "resume_text": "\nRESUME\n======\n\nName: Sarah Tech\nEmail: sarah.tech@yahoo.com\nPhone: +91-96979-19471\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nSarah Tech is a Data Scientist with 0 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nR, TensorFlow, Pandas, Statistical Thinking, Presentation\n\nEXPERIENCE\nData Scientist at Amazon\nDuration: 0 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Scrum Master\n"
+  },
+  {
+    "name": "Aditya Verma",
+    "email": "aditya.verma@gmail.com",
+    "phone": "+91-97219-62568",
+    "target_role": "Data Scientist",
+    "years_experience": 7,
+    "resume_text": "\nRESUME\n======\n\nName: Aditya Verma\nEmail: aditya.verma@gmail.com\nPhone: +91-97219-62568\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nAditya Verma is a Data Scientist with 7 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nPython, Machine Learning, SQL, Data Analysis, Statistical Thinking\n\nEXPERIENCE\nData Scientist at Analytics Firm\nDuration: 7 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- AWS Certified\n"
+  },
+  {
+    "name": "Nikhil Rao",
+    "email": "nikhil.rao@gmail.com",
+    "phone": "+91-97287-59775",
+    "target_role": "Data Scientist",
+    "years_experience": 1,
+    "resume_text": "\nRESUME\n======\n\nName: Nikhil Rao\nEmail: nikhil.rao@gmail.com\nPhone: +91-97287-59775\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nNikhil Rao is a Data Scientist with 1 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nR, TensorFlow, Pandas, Presentation, Data Analysis\n\nEXPERIENCE\nData Scientist at Analytics Firm\nDuration: 1 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Google Cloud Certified\n"
+  },
+  {
+    "name": "Aryan Singh",
+    "email": "aryan.singh@company.com",
+    "phone": "+91-97016-94331",
+    "target_role": "Data Scientist",
+    "years_experience": 2,
+    "resume_text": "\nRESUME\n======\n\nName: Aryan Singh\nEmail: aryan.singh@company.com\nPhone: +91-97016-94331\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nAryan Singh is a Data Scientist with 2 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nPyTorch, NLP, Python, Presentation, Data Analysis\n\nEXPERIENCE\nData Scientist at Amazon\nDuration: 2 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Google Cloud Certified\n"
+  },
+  {
+    "name": "Rohan Mehta",
+    "email": "rohan.mehta@gmail.com",
+    "phone": "+91-91584-48269",
+    "target_role": "Data Scientist",
+    "years_experience": 1,
+    "resume_text": "\nRESUME\n======\n\nName: Rohan Mehta\nEmail: rohan.mehta@gmail.com\nPhone: +91-91584-48269\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nRohan Mehta is a Data Scientist with 1 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nPython, Machine Learning, SQL, Statistical Thinking, Presentation\n\nEXPERIENCE\nData Scientist at Google\nDuration: 1 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- AWS Certified\n"
+  },
+  {
+    "name": "James Wilson",
+    "email": "james.wilson@yahoo.com",
+    "phone": "+91-98615-17857",
+    "target_role": "Data Scientist",
+    "years_experience": 3,
+    "resume_text": "\nRESUME\n======\n\nName: James Wilson\nEmail: james.wilson@yahoo.com\nPhone: +91-98615-17857\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nJames Wilson is a Data Scientist with 3 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nSQL, Tableau, Python, Presentation, Statistical Thinking\n\nEXPERIENCE\nData Scientist at Amazon\nDuration: 3 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Azure Certified\n"
+  },
+  {
+    "name": "Rahul Patel",
+    "email": "rahul.patel@gmail.com",
+    "phone": "+91-97960-27621",
+    "target_role": "Data Scientist",
+    "years_experience": 4,
+    "resume_text": "\nRESUME\n======\n\nName: Rahul Patel\nEmail: rahul.patel@gmail.com\nPhone: +91-97960-27621\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nRahul Patel is a Data Scientist with 4 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nPython, Statistics, Big Data, Presentation, Statistical Thinking\n\nEXPERIENCE\nData Scientist at Startup\nDuration: 4 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Google Cloud Certified\n"
+  },
+  {
+    "name": "Emma Cloud",
+    "email": "emma.cloud@tech.com",
+    "phone": "+91-95059-60274",
+    "target_role": "Data Scientist",
+    "years_experience": 3,
+    "resume_text": "\nRESUME\n======\n\nName: Emma Cloud\nEmail: emma.cloud@tech.com\nPhone: +91-95059-60274\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nEmma Cloud is a Data Scientist with 3 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nSQL, Tableau, Python, Statistical Thinking, Presentation\n\nEXPERIENCE\nData Scientist at Amazon\nDuration: 3 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Azure Certified\n"
+  },
+  {
+    "name": "Isha Nair",
+    "email": "isha.nair@outlook.com",
+    "phone": "+91-91332-25571",
+    "target_role": "Data Scientist",
+    "years_experience": 6,
+    "resume_text": "\nRESUME\n======\n\nName: Isha Nair\nEmail: isha.nair@outlook.com\nPhone: +91-91332-25571\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nIsha Nair is a Data Scientist with 6 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nPyTorch, NLP, Python, Data Analysis, Presentation\n\nEXPERIENCE\nData Scientist at Google\nDuration: 6 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Azure Certified\n"
+  },
+  {
+    "name": "Riya Das",
+    "email": "riya.das@gmail.com",
+    "phone": "+91-98611-42110",
+    "target_role": "Data Scientist",
+    "years_experience": 6,
+    "resume_text": "\nRESUME\n======\n\nName: Riya Das\nEmail: riya.das@gmail.com\nPhone: +91-98611-42110\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nRiya Das is a Data Scientist with 6 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nSQL, Tableau, Python, Data Analysis, Presentation\n\nEXPERIENCE\nData Scientist at Startup\nDuration: 6 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Scrum Master\n"
+  },
+  {
+    "name": "Divya Iyer",
+    "email": "divya.iyer@gmail.com",
+    "phone": "+91-90445-23757",
+    "target_role": "Product Manager",
+    "years_experience": 3,
+    "resume_text": "\nRESUME\n======\n\nName: Divya Iyer\nEmail: divya.iyer@gmail.com\nPhone: +91-90445-23757\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nDivya Iyer is a Product Manager with 3 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nProduct Strategy, Analytics, SQL, Strategic Thinking, Communication\n\nEXPERIENCE\nProduct Manager at Startup\nDuration: 3 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Azure Certified\n"
+  },
+  {
+    "name": "Emma Cloud",
+    "email": "emma.cloud@tech.com",
+    "phone": "+91-97629-59128",
+    "target_role": "Product Manager",
+    "years_experience": 7,
+    "resume_text": "\nRESUME\n======\n\nName: Emma Cloud\nEmail: emma.cloud@tech.com\nPhone: +91-97629-59128\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nEmma Cloud is a Product Manager with 7 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nData Analysis, Wireframing, SQL, Negotiation, Leadership\n\nEXPERIENCE\nProduct Manager at Amazon\nDuration: 7 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Google Cloud Certified\n"
+  },
+  {
+    "name": "Arjun Kumar",
+    "email": "arjun.kumar@gmail.com",
+    "phone": "+91-97528-75737",
+    "target_role": "Product Manager",
+    "years_experience": 3,
+    "resume_text": "\nRESUME\n======\n\nName: Arjun Kumar\nEmail: arjun.kumar@gmail.com\nPhone: +91-97528-75737\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nArjun Kumar is a Product Manager with 3 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nRoadmap Planning, Agile, Communication, Strategic Thinking, Communication\n\nEXPERIENCE\nProduct Manager at Google\nDuration: 3 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Google Cloud Certified\n"
+  },
+  {
+    "name": "Pooja Sinha",
+    "email": "pooja.sinha@company.com",
+    "phone": "+91-97454-43417",
+    "target_role": "Product Manager",
+    "years_experience": 9,
+    "resume_text": "\nRESUME\n======\n\nName: Pooja Sinha\nEmail: pooja.sinha@company.com\nPhone: +91-97454-43417\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nPooja Sinha is a Product Manager with 9 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nUser Research, Metrics, A/B Testing, Negotiation, Communication\n\nEXPERIENCE\nProduct Manager at Google\nDuration: 9 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- AWS Certified\n"
+  },
+  {
+    "name": "Rohan Mehta",
+    "email": "rohan.mehta@outlook.com",
+    "phone": "+91-99406-40240",
+    "target_role": "Product Manager",
+    "years_experience": 4,
+    "resume_text": "\nRESUME\n======\n\nName: Rohan Mehta\nEmail: rohan.mehta@outlook.com\nPhone: +91-99406-40240\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nRohan Mehta is a Product Manager with 4 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nProduct Strategy, Analytics, SQL, Leadership, Communication\n\nEXPERIENCE\nProduct Manager at Startup\nDuration: 4 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- AWS Certified\n"
+  },
+  {
+    "name": "Aditya Verma",
+    "email": "aditya.verma@tech.com",
+    "phone": "+91-91879-61689",
+    "target_role": "Product Manager",
+    "years_experience": 10,
+    "resume_text": "\nRESUME\n======\n\nName: Aditya Verma\nEmail: aditya.verma@tech.com\nPhone: +91-91879-61689\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nAditya Verma is a Product Manager with 10 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nProduct Strategy, Analytics, SQL, Communication, Leadership\n\nEXPERIENCE\nProduct Manager at Startup\nDuration: 10 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Scrum Master\n"
+  },
+  {
+    "name": "Rahul Patel",
+    "email": "rahul.patel@company.com",
+    "phone": "+91-91758-21183",
+    "target_role": "Product Manager",
+    "years_experience": 3,
+    "resume_text": "\nRESUME\n======\n\nName: Rahul Patel\nEmail: rahul.patel@company.com\nPhone: +91-91758-21183\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nRahul Patel is a Product Manager with 3 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nProduct Strategy, Analytics, SQL, Strategic Thinking, Leadership\n\nEXPERIENCE\nProduct Manager at Amazon\nDuration: 3 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Google Cloud Certified\n"
+  },
+  {
+    "name": "Emma Cloud",
+    "email": "emma.cloud@yahoo.com",
+    "phone": "+91-95932-65159",
+    "target_role": "Product Manager",
+    "years_experience": 1,
+    "resume_text": "\nRESUME\n======\n\nName: Emma Cloud\nEmail: emma.cloud@yahoo.com\nPhone: +91-95932-65159\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nEmma Cloud is a Product Manager with 1 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nUser Research, Metrics, A/B Testing, Communication, Leadership\n\nEXPERIENCE\nProduct Manager at Google\nDuration: 1 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Azure Certified\n"
+  },
+  {
+    "name": "Arjun Kumar",
+    "email": "arjun.kumar@gmail.com",
+    "phone": "+91-98501-63785",
+    "target_role": "Product Manager",
+    "years_experience": 5,
+    "resume_text": "\nRESUME\n======\n\nName: Arjun Kumar\nEmail: arjun.kumar@gmail.com\nPhone: +91-98501-63785\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nArjun Kumar is a Product Manager with 5 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nData Analysis, Wireframing, SQL, Leadership, Negotiation\n\nEXPERIENCE\nProduct Manager at Google\nDuration: 5 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Azure Certified\n"
+  },
+  {
+    "name": "Rohan Mehta",
+    "email": "rohan.mehta@tech.com",
+    "phone": "+91-93831-71436",
+    "target_role": "Product Manager",
+    "years_experience": 3,
+    "resume_text": "\nRESUME\n======\n\nName: Rohan Mehta\nEmail: rohan.mehta@tech.com\nPhone: +91-93831-71436\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nRohan Mehta is a Product Manager with 3 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nProduct Strategy, Analytics, SQL, Communication, Negotiation\n\nEXPERIENCE\nProduct Manager at Google\nDuration: 3 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- AWS Certified\n"
+  },
+  {
+    "name": "Rohan Mehta",
+    "email": "rohan.mehta@company.com",
+    "phone": "+91-93129-35600",
+    "target_role": "Product Manager",
+    "years_experience": 6,
+    "resume_text": "\nRESUME\n======\n\nName: Rohan Mehta\nEmail: rohan.mehta@company.com\nPhone: +91-93129-35600\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nRohan Mehta is a Product Manager with 6 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nUser Research, Metrics, A/B Testing, Strategic Thinking, Leadership\n\nEXPERIENCE\nProduct Manager at Google\nDuration: 6 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- AWS Certified\n"
+  },
+  {
+    "name": "Anjali Reddy",
+    "email": "anjali.reddy@tech.com",
+    "phone": "+91-93118-88223",
+    "target_role": "Product Manager",
+    "years_experience": 2,
+    "resume_text": "\nRESUME\n======\n\nName: Anjali Reddy\nEmail: anjali.reddy@tech.com\nPhone: +91-93118-88223\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nAnjali Reddy is a Product Manager with 2 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nRoadmap Planning, Agile, Communication, Leadership, Negotiation\n\nEXPERIENCE\nProduct Manager at Amazon\nDuration: 2 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- AWS Certified\n"
+  },
+  {
+    "name": "Nikhil Rao",
+    "email": "nikhil.rao@tech.com",
+    "phone": "+91-98268-43982",
+    "target_role": "UX Designer",
+    "years_experience": 6,
+    "resume_text": "\nRESUME\n======\n\nName: Nikhil Rao\nEmail: nikhil.rao@tech.com\nPhone: +91-98268-43982\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nNikhil Rao is a UX Designer with 6 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nUI/UX, Interaction Design, Sketch, Problem Solving, User Empathy\n\nEXPERIENCE\nUX Designer at Apple\nDuration: 6 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Scrum Master\n"
+  },
+  {
+    "name": "David AI",
+    "email": "david.ai@outlook.com",
+    "phone": "+91-97080-69528",
+    "target_role": "UX Designer",
+    "years_experience": 4,
+    "resume_text": "\nRESUME\n======\n\nName: David AI\nEmail: david.ai@outlook.com\nPhone: +91-97080-69528\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nDavid AI is a UX Designer with 4 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nDesign Systems, CSS, Figma, Problem Solving, Communication\n\nEXPERIENCE\nUX Designer at Startup\nDuration: 4 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Scrum Master\n"
+  },
+  {
+    "name": "Pooja Sinha",
+    "email": "pooja.sinha@yahoo.com",
+    "phone": "+91-95833-88928",
+    "target_role": "UX Designer",
+    "years_experience": 0,
+    "resume_text": "\nRESUME\n======\n\nName: Pooja Sinha\nEmail: pooja.sinha@yahoo.com\nPhone: +91-95833-88928\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nPooja Sinha is a UX Designer with 0 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nAdobe XD, User Research, Wireframing, Problem Solving, User Empathy\n\nEXPERIENCE\nUX Designer at Startup\nDuration: 0 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Azure Certified\n"
+  },
+  {
+    "name": "James Wilson",
+    "email": "james.wilson@yahoo.com",
+    "phone": "+91-90262-81054",
+    "target_role": "UX Designer",
+    "years_experience": 5,
+    "resume_text": "\nRESUME\n======\n\nName: James Wilson\nEmail: james.wilson@yahoo.com\nPhone: +91-90262-81054\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nJames Wilson is a UX Designer with 5 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nFigma, UI Design, Prototyping, Communication, Creativity\n\nEXPERIENCE\nUX Designer at Apple\nDuration: 5 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Google Cloud Certified\n"
+  },
+  {
+    "name": "Pooja Sinha",
+    "email": "pooja.sinha@tech.com",
+    "phone": "+91-97774-64374",
+    "target_role": "UX Designer",
+    "years_experience": 7,
+    "resume_text": "\nRESUME\n======\n\nName: Pooja Sinha\nEmail: pooja.sinha@tech.com\nPhone: +91-97774-64374\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nPooja Sinha is a UX Designer with 7 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nUI/UX, Interaction Design, Sketch, User Empathy, Problem Solving\n\nEXPERIENCE\nUX Designer at Design Studio\nDuration: 7 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Azure Certified\n"
+  },
+  {
+    "name": "Shreya Bhat",
+    "email": "shreya.bhat@outlook.com",
+    "phone": "+91-95588-27109",
+    "target_role": "UX Designer",
+    "years_experience": 4,
+    "resume_text": "\nRESUME\n======\n\nName: Shreya Bhat\nEmail: shreya.bhat@outlook.com\nPhone: +91-95588-27109\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nShreya Bhat is a UX Designer with 4 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nAdobe XD, User Research, Wireframing, Communication, User Empathy\n\nEXPERIENCE\nUX Designer at Startup\nDuration: 4 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Google Cloud Certified\n"
+  },
+  {
+    "name": "Sanjay Kumar",
+    "email": "sanjay.kumar@company.com",
+    "phone": "+91-99019-19999",
+    "target_role": "UX Designer",
+    "years_experience": 5,
+    "resume_text": "\nRESUME\n======\n\nName: Sanjay Kumar\nEmail: sanjay.kumar@company.com\nPhone: +91-99019-19999\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nSanjay Kumar is a UX Designer with 5 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nFigma, UI Design, Prototyping, Communication, Creativity\n\nEXPERIENCE\nUX Designer at Apple\nDuration: 5 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- AWS Certified\n"
+  },
+  {
+    "name": "Shreya Bhat",
+    "email": "shreya.bhat@gmail.com",
+    "phone": "+91-92192-97123",
+    "target_role": "UX Designer",
+    "years_experience": 2,
+    "resume_text": "\nRESUME\n======\n\nName: Shreya Bhat\nEmail: shreya.bhat@gmail.com\nPhone: +91-92192-97123\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nShreya Bhat is a UX Designer with 2 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nFigma, UI Design, Prototyping, User Empathy, Communication\n\nEXPERIENCE\nUX Designer at Design Studio\nDuration: 2 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Azure Certified\n"
+  },
+  {
+    "name": "Nikhil Rao",
+    "email": "nikhil.rao@gmail.com",
+    "phone": "+91-96315-93174",
+    "target_role": "UX Designer",
+    "years_experience": 5,
+    "resume_text": "\nRESUME\n======\n\nName: Nikhil Rao\nEmail: nikhil.rao@gmail.com\nPhone: +91-96315-93174\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nNikhil Rao is a UX Designer with 5 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nUI/UX, Interaction Design, Sketch, Communication, Creativity\n\nEXPERIENCE\nUX Designer at Google\nDuration: 5 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Google Cloud Certified\n"
+  },
+  {
+    "name": "Karan Chopra",
+    "email": "karan.chopra@outlook.com",
+    "phone": "+91-98969-37547",
+    "target_role": "UX Designer",
+    "years_experience": 5,
+    "resume_text": "\nRESUME\n======\n\nName: Karan Chopra\nEmail: karan.chopra@outlook.com\nPhone: +91-98969-37547\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nKaran Chopra is a UX Designer with 5 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nFigma, UI Design, Prototyping, Communication, User Empathy\n\nEXPERIENCE\nUX Designer at Google\nDuration: 5 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Google Cloud Certified\n"
+  },
+  {
+    "name": "Anjali Reddy",
+    "email": "anjali.reddy@yahoo.com",
+    "phone": "+91-90928-50439",
+    "target_role": "UX Designer",
+    "years_experience": 1,
+    "resume_text": "\nRESUME\n======\n\nName: Anjali Reddy\nEmail: anjali.reddy@yahoo.com\nPhone: +91-90928-50439\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nAnjali Reddy is a UX Designer with 1 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nFigma, UI Design, Prototyping, Communication, Problem Solving\n\nEXPERIENCE\nUX Designer at Apple\nDuration: 1 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Scrum Master\n"
+  },
+  {
+    "name": "Rahul Patel",
+    "email": "rahul.patel@yahoo.com",
+    "phone": "+91-91252-66426",
+    "target_role": "UX Designer",
+    "years_experience": 0,
+    "resume_text": "\nRESUME\n======\n\nName: Rahul Patel\nEmail: rahul.patel@yahoo.com\nPhone: +91-91252-66426\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nRahul Patel is a UX Designer with 0 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nDesign Systems, CSS, Figma, User Empathy, Creativity\n\nEXPERIENCE\nUX Designer at Design Studio\nDuration: 0 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Azure Certified\n"
+  },
+  {
+    "name": "Divya Iyer",
+    "email": "divya.iyer@company.com",
+    "phone": "+91-98165-98888",
+    "target_role": "DevOps Engineer",
+    "years_experience": 7,
+    "resume_text": "\nRESUME\n======\n\nName: Divya Iyer\nEmail: divya.iyer@company.com\nPhone: +91-98165-98888\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nDivya Iyer is a DevOps Engineer with 7 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nTerraform, Cloud, Monitoring, Automation, System Thinking\n\nEXPERIENCE\nDevOps Engineer at Amazon\nDuration: 7 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Azure Certified\n"
+  },
+  {
+    "name": "Neha Gupta",
+    "email": "neha.gupta@company.com",
+    "phone": "+91-93155-61403",
+    "target_role": "DevOps Engineer",
+    "years_experience": 1,
+    "resume_text": "\nRESUME\n======\n\nName: Neha Gupta\nEmail: neha.gupta@company.com\nPhone: +91-93155-61403\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nNeha Gupta is a DevOps Engineer with 1 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nTerraform, Cloud, Monitoring, Automation, System Thinking\n\nEXPERIENCE\nDevOps Engineer at Startup\nDuration: 1 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Google Cloud Certified\n"
+  },
+  {
+    "name": "Priya Singh",
+    "email": "priya.singh@gmail.com",
+    "phone": "+91-92588-96811",
+    "target_role": "DevOps Engineer",
+    "years_experience": 5,
+    "resume_text": "\nRESUME\n======\n\nName: Priya Singh\nEmail: priya.singh@gmail.com\nPhone: +91-92588-96811\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nPriya Singh is a DevOps Engineer with 5 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nAnsible, AWS, Python, Automation, Problem Solving\n\nEXPERIENCE\nDevOps Engineer at Amazon\nDuration: 5 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Azure Certified\n"
+  },
+  {
+    "name": "Rohan Mehta",
+    "email": "rohan.mehta@gmail.com",
+    "phone": "+91-93517-94850",
+    "target_role": "DevOps Engineer",
+    "years_experience": 8,
+    "resume_text": "\nRESUME\n======\n\nName: Rohan Mehta\nEmail: rohan.mehta@gmail.com\nPhone: +91-93517-94850\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nRohan Mehta is a DevOps Engineer with 8 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nAnsible, AWS, Python, System Thinking, Problem Solving\n\nEXPERIENCE\nDevOps Engineer at Startup\nDuration: 8 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Azure Certified\n"
+  },
+  {
+    "name": "Isha Nair",
+    "email": "isha.nair@yahoo.com",
+    "phone": "+91-96832-90385",
+    "target_role": "DevOps Engineer",
+    "years_experience": 6,
+    "resume_text": "\nRESUME\n======\n\nName: Isha Nair\nEmail: isha.nair@yahoo.com\nPhone: +91-96832-90385\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nIsha Nair is a DevOps Engineer with 6 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nAnsible, AWS, Python, Automation, System Thinking\n\nEXPERIENCE\nDevOps Engineer at Cloud Provider\nDuration: 6 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Scrum Master\n"
+  },
+  {
+    "name": "Sanjay Kumar",
+    "email": "sanjay.kumar@gmail.com",
+    "phone": "+91-90508-50160",
+    "target_role": "DevOps Engineer",
+    "years_experience": 5,
+    "resume_text": "\nRESUME\n======\n\nName: Sanjay Kumar\nEmail: sanjay.kumar@gmail.com\nPhone: +91-90508-50160\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nSanjay Kumar is a DevOps Engineer with 5 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nAnsible, AWS, Python, Automation, Problem Solving\n\nEXPERIENCE\nDevOps Engineer at Tech Company\nDuration: 5 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Azure Certified\n"
+  },
+  {
+    "name": "Nikhil Rao",
+    "email": "nikhil.rao@yahoo.com",
+    "phone": "+91-95410-52572",
+    "target_role": "DevOps Engineer",
+    "years_experience": 6,
+    "resume_text": "\nRESUME\n======\n\nName: Nikhil Rao\nEmail: nikhil.rao@yahoo.com\nPhone: +91-95410-52572\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nNikhil Rao is a DevOps Engineer with 6 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nAnsible, AWS, Python, System Thinking, Automation\n\nEXPERIENCE\nDevOps Engineer at Cloud Provider\nDuration: 6 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Google Cloud Certified\n"
+  },
+  {
+    "name": "David AI",
+    "email": "david.ai@gmail.com",
+    "phone": "+91-96840-97634",
+    "target_role": "DevOps Engineer",
+    "years_experience": 9,
+    "resume_text": "\nRESUME\n======\n\nName: David AI\nEmail: david.ai@gmail.com\nPhone: +91-96840-97634\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nDavid AI is a DevOps Engineer with 9 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nGCP, Docker, Databases, System Thinking, Problem Solving\n\nEXPERIENCE\nDevOps Engineer at Google\nDuration: 9 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Scrum Master\n"
+  },
+  {
+    "name": "David AI",
+    "email": "david.ai@yahoo.com",
+    "phone": "+91-94128-97987",
+    "target_role": "DevOps Engineer",
+    "years_experience": 1,
+    "resume_text": "\nRESUME\n======\n\nName: David AI\nEmail: david.ai@yahoo.com\nPhone: +91-94128-97987\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nDavid AI is a DevOps Engineer with 1 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nDocker, Kubernetes, AWS, System Thinking, Problem Solving\n\nEXPERIENCE\nDevOps Engineer at Startup\nDuration: 1 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Azure Certified\n"
+  },
+  {
+    "name": "David AI",
+    "email": "david.ai@outlook.com",
+    "phone": "+91-95472-85784",
+    "target_role": "DevOps Engineer",
+    "years_experience": 2,
+    "resume_text": "\nRESUME\n======\n\nName: David AI\nEmail: david.ai@outlook.com\nPhone: +91-95472-85784\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nDavid AI is a DevOps Engineer with 2 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nAnsible, AWS, Python, System Thinking, Problem Solving\n\nEXPERIENCE\nDevOps Engineer at Google\nDuration: 2 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Azure Certified\n"
+  },
+  {
+    "name": "Rohan Mehta",
+    "email": "rohan.mehta@yahoo.com",
+    "phone": "+91-99699-13917",
+    "target_role": "DevOps Engineer",
+    "years_experience": 8,
+    "resume_text": "\nRESUME\n======\n\nName: Rohan Mehta\nEmail: rohan.mehta@yahoo.com\nPhone: +91-99699-13917\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nRohan Mehta is a DevOps Engineer with 8 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nDocker, Kubernetes, AWS, System Thinking, Automation\n\nEXPERIENCE\nDevOps Engineer at Cloud Provider\nDuration: 8 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Scrum Master\n"
+  },
+  {
+    "name": "Rohan Mehta",
+    "email": "rohan.mehta@yahoo.com",
+    "phone": "+91-98315-42437",
+    "target_role": "DevOps Engineer",
+    "years_experience": 9,
+    "resume_text": "\nRESUME\n======\n\nName: Rohan Mehta\nEmail: rohan.mehta@yahoo.com\nPhone: +91-98315-42437\nLocation: Bangalore, India\n\nPROFESSIONAL SUMMARY\nRohan Mehta is a DevOps Engineer with 9 years of experience. Skilled in building scalable solutions and driving business impact.\n\nSKILLS\nJenkins, CI/CD, Linux, Problem Solving, System Thinking\n\nEXPERIENCE\nDevOps Engineer at Google\nDuration: 9 years\n- Developed and maintained critical systems\n- Led cross-functional teams\n- Improved performance and efficiency\n- Implemented best practices and standards\n\nEDUCATION\nB.Tech in Computer Science\nIIT/NIT/Top Engineering College\n2015-2019\n\nCERTIFICATIONS\n- Scrum Master\n"
+  }
+]

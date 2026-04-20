@@ -1,0 +1,69 @@
+{
+  "total_resumes": 60,
+  "total_jobs": 22,
+  "sample_matching": {},
+  "evaluation_metrics": {
+    "summary": {
+      "total_matches_evaluated": 1320,
+      "average_match_score": 69.2
+    },
+    "detailed_metrics": {
+      "total_comparisons": 1320,
+      "statistics": {
+        "mean_score": 69.2,
+        "median_score": 74.25,
+        "std_dev": 12.09,
+        "min_score": 38.6,
+        "max_score": 91.38
+      },
+      "role_analysis": {
+        "same_role_matches": 0,
+        "same_role_avg_score": 0,
+        "different_role_matches": 1320,
+        "different_role_avg_score": 69.2
+      }
+    },
+    "component_analysis": {
+      "skill_overlap": {
+        "mean": 56.33,
+        "median": 70.0,
+        "min": 0.0,
+        "max": 85.0
+      },
+      "semantic_similarity": {
+        "mean": 78.5,
+        "median": 75.0,
+        "min": 75.0,
+        "max": 95.0
+      },
+      "experience_match": {
+        "mean": 90.75,
+        "median": 100.0,
+        "min": 49.0,
+        "max": 100.0
+      },
+      "domain_match": {
+        "mean": 55.83,
+        "median": 50.0,
+        "min": 50.0,
+        "max": 100.0
+      }
+    },
+    "score_distribution": {
+      "38.6-43.9": 110,
+      "43.9-49.2": 88,
+      "49.2-54.4": 22,
+      "54.4-59.7": 22,
+      "59.7-65.0": 22,
+      "65.0-70.3": 88,
+      "70.3-75.5": 836,
+      "75.5-80.8": 22,
+      "80.8-86.1": 88,
+      "86.1-91.4": 22
+    },
+    "observations": [
+      "Average match score is 69.2%, indicating moderate overall matching.",
+      "Skill overlap component averages 56.33%, suggesting potential skill gaps."
+    ]
+  }
+}

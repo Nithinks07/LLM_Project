@@ -1,0 +1,420 @@
+[
+  {
+    "role": "Software Engineer",
+    "company": "NextGen Tech",
+    "job_description": "\nJOB DESCRIPTION\n===============\n\nCompany: NextGen Tech\nPosition: Software Engineer\nLocation: Bangalore, India\nSalary: \u20b914-17 LPA\n\nDESCRIPTION:\nHiring Software Engineer: Strong in Data Structures, System Design, and modern development practices.\n\nREQUIREMENTS:\n- 14 years of experience in related field\n- Strong problem-solving skills\n- Team player with good communication\n- Experience with System Design, SQL\n\nNICE TO HAVE:\n- Experience with MongoDB, AWS\n- Experience with emerging technologies\n- Contributions to open source\n\nABOUT US:\nWe are a fast-growing tech company focused on innovative solutions.\n",
+    "required_skills": [
+      "Python",
+      "System Design",
+      "SQL",
+      "Git"
+    ],
+    "nice_to_have": [
+      "Docker",
+      "Kubernetes",
+      "MongoDB",
+      "AWS"
+    ],
+    "experience_required": "junior",
+    "salary_range": "14-17 LPA"
+  },
+  {
+    "role": "Software Engineer",
+    "company": "WebScale Systems",
+    "job_description": "\nJOB DESCRIPTION\n===============\n\nCompany: WebScale Systems\nPosition: Software Engineer\nLocation: Bangalore, India\nSalary: \u20b911-14 LPA\n\nDESCRIPTION:\nWe are looking for a Software Engineer to build scalable backend systems using Python and cloud technologies.\n\nREQUIREMENTS:\n- 11 years of experience in related field\n- Strong problem-solving skills\n- Team player with good communication\n- Experience with Git, SQL\n\nNICE TO HAVE:\n- Experience with AWS, MongoDB\n- Experience with emerging technologies\n- Contributions to open source\n\nABOUT US:\nWe are a fast-growing tech company focused on innovative solutions.\n",
+    "required_skills": [
+      "Python",
+      "System Design",
+      "SQL",
+      "Git"
+    ],
+    "nice_to_have": [
+      "Docker",
+      "Kubernetes",
+      "MongoDB",
+      "AWS"
+    ],
+    "experience_required": "junior",
+    "salary_range": "11-14 LPA"
+  },
+  {
+    "role": "Software Engineer",
+    "company": "CloudXpress",
+    "job_description": "\nJOB DESCRIPTION\n===============\n\nCompany: CloudXpress\nPosition: Software Engineer\nLocation: Bangalore, India\nSalary: \u20b99-12 LPA\n\nDESCRIPTION:\nHiring Software Engineer: Strong in Data Structures, System Design, and modern development practices.\n\nREQUIREMENTS:\n- 9 years of experience in related field\n- Strong problem-solving skills\n- Team player with good communication\n- Experience with Python, SQL\n\nNICE TO HAVE:\n- Experience with MongoDB, AWS\n- Experience with emerging technologies\n- Contributions to open source\n\nABOUT US:\nWe are a fast-growing tech company focused on innovative solutions.\n",
+    "required_skills": [
+      "Python",
+      "System Design",
+      "SQL",
+      "Git"
+    ],
+    "nice_to_have": [
+      "Docker",
+      "Kubernetes",
+      "MongoDB",
+      "AWS"
+    ],
+    "experience_required": "junior",
+    "salary_range": "9-12 LPA"
+  },
+  {
+    "role": "Software Engineer",
+    "company": "Digital Innovations",
+    "job_description": "\nJOB DESCRIPTION\n===============\n\nCompany: Digital Innovations\nPosition: Software Engineer\nLocation: Bangalore, India\nSalary: \u20b96-9 LPA\n\nDESCRIPTION:\nHiring Software Engineer: Strong in Data Structures, System Design, and modern development practices.\n\nREQUIREMENTS:\n- 6 years of experience in related field\n- Strong problem-solving skills\n- Team player with good communication\n- Experience with System Design, Git\n\nNICE TO HAVE:\n- Experience with Docker, Kubernetes\n- Experience with emerging technologies\n- Contributions to open source\n\nABOUT US:\nWe are a fast-growing tech company focused on innovative solutions.\n",
+    "required_skills": [
+      "Python",
+      "System Design",
+      "SQL",
+      "Git"
+    ],
+    "nice_to_have": [
+      "Docker",
+      "Kubernetes",
+      "MongoDB",
+      "AWS"
+    ],
+    "experience_required": "junior",
+    "salary_range": "6-9 LPA"
+  },
+  {
+    "role": "Software Engineer",
+    "company": "TechCorp",
+    "job_description": "\nJOB DESCRIPTION\n===============\n\nCompany: TechCorp\nPosition: Software Engineer\nLocation: Bangalore, India\nSalary: \u20b95-8 LPA\n\nDESCRIPTION:\nHiring Software Engineer: Strong in Data Structures, System Design, and modern development practices.\n\nREQUIREMENTS:\n- 5 years of experience in related field\n- Strong problem-solving skills\n- Team player with good communication\n- Experience with Python, System Design\n\nNICE TO HAVE:\n- Experience with Kubernetes, AWS\n- Experience with emerging technologies\n- Contributions to open source\n\nABOUT US:\nWe are a fast-growing tech company focused on innovative solutions.\n",
+    "required_skills": [
+      "Python",
+      "System Design",
+      "SQL",
+      "Git"
+    ],
+    "nice_to_have": [
+      "Docker",
+      "Kubernetes",
+      "MongoDB",
+      "AWS"
+    ],
+    "experience_required": "junior",
+    "salary_range": "5-8 LPA"
+  },
+  {
+    "role": "Data Scientist",
+    "company": "TechCorp",
+    "job_description": "\nJOB DESCRIPTION\n===============\n\nCompany: TechCorp\nPosition: Data Scientist\nLocation: Bangalore, India\nSalary: \u20b912-15 LPA\n\nDESCRIPTION:\nJoin our Analytics team as a Data Scientist. Work with Python, ML frameworks, and big data.\n\nREQUIREMENTS:\n- 12 years of experience in related field\n- Strong problem-solving skills\n- Team player with good communication\n- Experience with Python, Statistics\n\nNICE TO HAVE:\n- Experience with Deep Learning, TensorFlow\n- Experience with emerging technologies\n- Contributions to open source\n\nABOUT US:\nWe are a fast-growing tech company focused on innovative solutions.\n",
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "SQL",
+      "Statistics"
+    ],
+    "nice_to_have": [
+      "TensorFlow",
+      "Spark",
+      "Tableau",
+      "Deep Learning"
+    ],
+    "experience_required": "junior",
+    "salary_range": "12-15 LPA"
+  },
+  {
+    "role": "Data Scientist",
+    "company": "TechCorp",
+    "job_description": "\nJOB DESCRIPTION\n===============\n\nCompany: TechCorp\nPosition: Data Scientist\nLocation: Bangalore, India\nSalary: \u20b94-7 LPA\n\nDESCRIPTION:\nSeeking Data Scientist: Strong background in Statistics, ML, and data engineering.\n\nREQUIREMENTS:\n- 4 years of experience in related field\n- Strong problem-solving skills\n- Team player with good communication\n- Experience with Python, SQL\n\nNICE TO HAVE:\n- Experience with TensorFlow, Tableau\n- Experience with emerging technologies\n- Contributions to open source\n\nABOUT US:\nWe are a fast-growing tech company focused on innovative solutions.\n",
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "SQL",
+      "Statistics"
+    ],
+    "nice_to_have": [
+      "TensorFlow",
+      "Spark",
+      "Tableau",
+      "Deep Learning"
+    ],
+    "experience_required": "junior",
+    "salary_range": "4-7 LPA"
+  },
+  {
+    "role": "Data Scientist",
+    "company": "Digital Innovations",
+    "job_description": "\nJOB DESCRIPTION\n===============\n\nCompany: Digital Innovations\nPosition: Data Scientist\nLocation: Bangalore, India\nSalary: \u20b911-14 LPA\n\nDESCRIPTION:\nSeeking Data Scientist: Strong background in Statistics, ML, and data engineering.\n\nREQUIREMENTS:\n- 11 years of experience in related field\n- Strong problem-solving skills\n- Team player with good communication\n- Experience with Machine Learning, SQL\n\nNICE TO HAVE:\n- Experience with Deep Learning, Spark\n- Experience with emerging technologies\n- Contributions to open source\n\nABOUT US:\nWe are a fast-growing tech company focused on innovative solutions.\n",
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "SQL",
+      "Statistics"
+    ],
+    "nice_to_have": [
+      "TensorFlow",
+      "Spark",
+      "Tableau",
+      "Deep Learning"
+    ],
+    "experience_required": "junior",
+    "salary_range": "11-14 LPA"
+  },
+  {
+    "role": "Data Scientist",
+    "company": "DataStream",
+    "job_description": "\nJOB DESCRIPTION\n===============\n\nCompany: DataStream\nPosition: Data Scientist\nLocation: Bangalore, India\nSalary: \u20b916-19 LPA\n\nDESCRIPTION:\nData Scientist needed to build ML models, analyze data, and derive actionable insights.\n\nREQUIREMENTS:\n- 16 years of experience in related field\n- Strong problem-solving skills\n- Team player with good communication\n- Experience with SQL, Machine Learning\n\nNICE TO HAVE:\n- Experience with TensorFlow, Tableau\n- Experience with emerging technologies\n- Contributions to open source\n\nABOUT US:\nWe are a fast-growing tech company focused on innovative solutions.\n",
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "SQL",
+      "Statistics"
+    ],
+    "nice_to_have": [
+      "TensorFlow",
+      "Spark",
+      "Tableau",
+      "Deep Learning"
+    ],
+    "experience_required": "junior",
+    "salary_range": "16-19 LPA"
+  },
+  {
+    "role": "Data Scientist",
+    "company": "FinTech Solutions",
+    "job_description": "\nJOB DESCRIPTION\n===============\n\nCompany: FinTech Solutions\nPosition: Data Scientist\nLocation: Bangalore, India\nSalary: \u20b95-8 LPA\n\nDESCRIPTION:\nData Scientist needed to build ML models, analyze data, and derive actionable insights.\n\nREQUIREMENTS:\n- 5 years of experience in related field\n- Strong problem-solving skills\n- Team player with good communication\n- Experience with Statistics, Python\n\nNICE TO HAVE:\n- Experience with TensorFlow, Tableau\n- Experience with emerging technologies\n- Contributions to open source\n\nABOUT US:\nWe are a fast-growing tech company focused on innovative solutions.\n",
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "SQL",
+      "Statistics"
+    ],
+    "nice_to_have": [
+      "TensorFlow",
+      "Spark",
+      "Tableau",
+      "Deep Learning"
+    ],
+    "experience_required": "junior",
+    "salary_range": "5-8 LPA"
+  },
+  {
+    "role": "Product Manager",
+    "company": "SmartData Co",
+    "job_description": "\nJOB DESCRIPTION\n===============\n\nCompany: SmartData Co\nPosition: Product Manager\nLocation: Bangalore, India\nSalary: \u20b915-18 LPA\n\nDESCRIPTION:\nPM role: Own product vision, drive prioritization, and collaborate with engineering and design.\n\nREQUIREMENTS:\n- 15 years of experience in related field\n- Strong problem-solving skills\n- Team player with good communication\n- Experience with User Research, Analytics\n\nNICE TO HAVE:\n- Experience with A/B Testing, Data Analysis\n- Experience with emerging technologies\n- Contributions to open source\n\nABOUT US:\nWe are a fast-growing tech company focused on innovative solutions.\n",
+    "required_skills": [
+      "Product Strategy",
+      "Analytics",
+      "Communication",
+      "User Research"
+    ],
+    "nice_to_have": [
+      "A/B Testing",
+      "SQL",
+      "Data Analysis",
+      "Agile"
+    ],
+    "experience_required": "intermediate",
+    "salary_range": "15-18 LPA"
+  },
+  {
+    "role": "Product Manager",
+    "company": "NextGen Tech",
+    "job_description": "\nJOB DESCRIPTION\n===============\n\nCompany: NextGen Tech\nPosition: Product Manager\nLocation: Bangalore, India\nSalary: \u20b914-17 LPA\n\nDESCRIPTION:\nPM role: Own product vision, drive prioritization, and collaborate with engineering and design.\n\nREQUIREMENTS:\n- 14 years of experience in related field\n- Strong problem-solving skills\n- Team player with good communication\n- Experience with User Research, Communication\n\nNICE TO HAVE:\n- Experience with A/B Testing, Data Analysis\n- Experience with emerging technologies\n- Contributions to open source\n\nABOUT US:\nWe are a fast-growing tech company focused on innovative solutions.\n",
+    "required_skills": [
+      "Product Strategy",
+      "Analytics",
+      "Communication",
+      "User Research"
+    ],
+    "nice_to_have": [
+      "A/B Testing",
+      "SQL",
+      "Data Analysis",
+      "Agile"
+    ],
+    "experience_required": "intermediate",
+    "salary_range": "14-17 LPA"
+  },
+  {
+    "role": "Product Manager",
+    "company": "Platform One",
+    "job_description": "\nJOB DESCRIPTION\n===============\n\nCompany: Platform One\nPosition: Product Manager\nLocation: Bangalore, India\nSalary: \u20b914-17 LPA\n\nDESCRIPTION:\nSeeking experienced Product Manager with strong analytical and communication skills.\n\nREQUIREMENTS:\n- 14 years of experience in related field\n- Strong problem-solving skills\n- Team player with good communication\n- Experience with Analytics, Product Strategy\n\nNICE TO HAVE:\n- Experience with Data Analysis, A/B Testing\n- Experience with emerging technologies\n- Contributions to open source\n\nABOUT US:\nWe are a fast-growing tech company focused on innovative solutions.\n",
+    "required_skills": [
+      "Product Strategy",
+      "Analytics",
+      "Communication",
+      "User Research"
+    ],
+    "nice_to_have": [
+      "A/B Testing",
+      "SQL",
+      "Data Analysis",
+      "Agile"
+    ],
+    "experience_required": "intermediate",
+    "salary_range": "14-17 LPA"
+  },
+  {
+    "role": "Product Manager",
+    "company": "FinTech Solutions",
+    "job_description": "\nJOB DESCRIPTION\n===============\n\nCompany: FinTech Solutions\nPosition: Product Manager\nLocation: Bangalore, India\nSalary: \u20b98-11 LPA\n\nDESCRIPTION:\nPM role: Own product vision, drive prioritization, and collaborate with engineering and design.\n\nREQUIREMENTS:\n- 8 years of experience in related field\n- Strong problem-solving skills\n- Team player with good communication\n- Experience with User Research, Product Strategy\n\nNICE TO HAVE:\n- Experience with Agile, SQL\n- Experience with emerging technologies\n- Contributions to open source\n\nABOUT US:\nWe are a fast-growing tech company focused on innovative solutions.\n",
+    "required_skills": [
+      "Product Strategy",
+      "Analytics",
+      "Communication",
+      "User Research"
+    ],
+    "nice_to_have": [
+      "A/B Testing",
+      "SQL",
+      "Data Analysis",
+      "Agile"
+    ],
+    "experience_required": "intermediate",
+    "salary_range": "8-11 LPA"
+  },
+  {
+    "role": "UX Designer",
+    "company": "DataStream",
+    "job_description": "\nJOB DESCRIPTION\n===============\n\nCompany: DataStream\nPosition: UX Designer\nLocation: Bangalore, India\nSalary: \u20b96-9 LPA\n\nDESCRIPTION:\nUX Designer to craft user experiences, create wireframes, and user research.\n\nREQUIREMENTS:\n- 6 years of experience in related field\n- Strong problem-solving skills\n- Team player with good communication\n- Experience with Prototyping, UI/UX Design\n\nNICE TO HAVE:\n- Experience with Design Systems, CSS\n- Experience with emerging technologies\n- Contributions to open source\n\nABOUT US:\nWe are a fast-growing tech company focused on innovative solutions.\n",
+    "required_skills": [
+      "UI/UX Design",
+      "Figma",
+      "User Research",
+      "Prototyping"
+    ],
+    "nice_to_have": [
+      "Design Systems",
+      "CSS",
+      "HTML",
+      "User Testing"
+    ],
+    "experience_required": "junior",
+    "salary_range": "6-9 LPA"
+  },
+  {
+    "role": "UX Designer",
+    "company": "DataStream",
+    "job_description": "\nJOB DESCRIPTION\n===============\n\nCompany: DataStream\nPosition: UX Designer\nLocation: Bangalore, India\nSalary: \u20b95-8 LPA\n\nDESCRIPTION:\nDesign passionate UX Designer needed to build beautiful and intuitive interfaces.\n\nREQUIREMENTS:\n- 5 years of experience in related field\n- Strong problem-solving skills\n- Team player with good communication\n- Experience with Prototyping, UI/UX Design\n\nNICE TO HAVE:\n- Experience with User Testing, CSS\n- Experience with emerging technologies\n- Contributions to open source\n\nABOUT US:\nWe are a fast-growing tech company focused on innovative solutions.\n",
+    "required_skills": [
+      "UI/UX Design",
+      "Figma",
+      "User Research",
+      "Prototyping"
+    ],
+    "nice_to_have": [
+      "Design Systems",
+      "CSS",
+      "HTML",
+      "User Testing"
+    ],
+    "experience_required": "junior",
+    "salary_range": "5-8 LPA"
+  },
+  {
+    "role": "UX Designer",
+    "company": "FinTech Solutions",
+    "job_description": "\nJOB DESCRIPTION\n===============\n\nCompany: FinTech Solutions\nPosition: UX Designer\nLocation: Bangalore, India\nSalary: \u20b914-17 LPA\n\nDESCRIPTION:\nDesign passionate UX Designer needed to build beautiful and intuitive interfaces.\n\nREQUIREMENTS:\n- 14 years of experience in related field\n- Strong problem-solving skills\n- Team player with good communication\n- Experience with User Research, Figma\n\nNICE TO HAVE:\n- Experience with Design Systems, HTML\n- Experience with emerging technologies\n- Contributions to open source\n\nABOUT US:\nWe are a fast-growing tech company focused on innovative solutions.\n",
+    "required_skills": [
+      "UI/UX Design",
+      "Figma",
+      "User Research",
+      "Prototyping"
+    ],
+    "nice_to_have": [
+      "Design Systems",
+      "CSS",
+      "HTML",
+      "User Testing"
+    ],
+    "experience_required": "junior",
+    "salary_range": "14-17 LPA"
+  },
+  {
+    "role": "UX Designer",
+    "company": "FinTech Solutions",
+    "job_description": "\nJOB DESCRIPTION\n===============\n\nCompany: FinTech Solutions\nPosition: UX Designer\nLocation: Bangalore, India\nSalary: \u20b914-17 LPA\n\nDESCRIPTION:\nUX Designer to craft user experiences, create wireframes, and user research.\n\nREQUIREMENTS:\n- 14 years of experience in related field\n- Strong problem-solving skills\n- Team player with good communication\n- Experience with Prototyping, Figma\n\nNICE TO HAVE:\n- Experience with CSS, Design Systems\n- Experience with emerging technologies\n- Contributions to open source\n\nABOUT US:\nWe are a fast-growing tech company focused on innovative solutions.\n",
+    "required_skills": [
+      "UI/UX Design",
+      "Figma",
+      "User Research",
+      "Prototyping"
+    ],
+    "nice_to_have": [
+      "Design Systems",
+      "CSS",
+      "HTML",
+      "User Testing"
+    ],
+    "experience_required": "junior",
+    "salary_range": "14-17 LPA"
+  },
+  {
+    "role": "DevOps Engineer",
+    "company": "AI Labs",
+    "job_description": "\nJOB DESCRIPTION\n===============\n\nCompany: AI Labs\nPosition: DevOps Engineer\nLocation: Bangalore, India\nSalary: \u20b916-19 LPA\n\nDESCRIPTION:\nDevOps Engineer to manage CI/CD pipelines, infrastructure, and cloud systems.\n\nREQUIREMENTS:\n- 16 years of experience in related field\n- Strong problem-solving skills\n- Team player with good communication\n- Experience with Docker, CI/CD\n\nNICE TO HAVE:\n- Experience with Kubernetes, Python\n- Experience with emerging technologies\n- Contributions to open source\n\nABOUT US:\nWe are a fast-growing tech company focused on innovative solutions.\n",
+    "required_skills": [
+      "Docker",
+      "CI/CD",
+      "Linux",
+      "Cloud Platforms"
+    ],
+    "nice_to_have": [
+      "Kubernetes",
+      "Terraform",
+      "Monitoring Tools",
+      "Python"
+    ],
+    "experience_required": "intermediate",
+    "salary_range": "16-19 LPA"
+  },
+  {
+    "role": "DevOps Engineer",
+    "company": "SmartData Co",
+    "job_description": "\nJOB DESCRIPTION\n===============\n\nCompany: SmartData Co\nPosition: DevOps Engineer\nLocation: Bangalore, India\nSalary: \u20b95-8 LPA\n\nDESCRIPTION:\nHiring DevOps: Strong in Docker, Kubernetes, scripting, and cloud platforms.\n\nREQUIREMENTS:\n- 5 years of experience in related field\n- Strong problem-solving skills\n- Team player with good communication\n- Experience with Docker, Cloud Platforms\n\nNICE TO HAVE:\n- Experience with Monitoring Tools, Python\n- Experience with emerging technologies\n- Contributions to open source\n\nABOUT US:\nWe are a fast-growing tech company focused on innovative solutions.\n",
+    "required_skills": [
+      "Docker",
+      "CI/CD",
+      "Linux",
+      "Cloud Platforms"
+    ],
+    "nice_to_have": [
+      "Kubernetes",
+      "Terraform",
+      "Monitoring Tools",
+      "Python"
+    ],
+    "experience_required": "intermediate",
+    "salary_range": "5-8 LPA"
+  },
+  {
+    "role": "DevOps Engineer",
+    "company": "DataStream",
+    "job_description": "\nJOB DESCRIPTION\n===============\n\nCompany: DataStream\nPosition: DevOps Engineer\nLocation: Bangalore, India\nSalary: \u20b97-10 LPA\n\nDESCRIPTION:\nDevOps Engineer to manage CI/CD pipelines, infrastructure, and cloud systems.\n\nREQUIREMENTS:\n- 7 years of experience in related field\n- Strong problem-solving skills\n- Team player with good communication\n- Experience with CI/CD, Docker\n\nNICE TO HAVE:\n- Experience with Kubernetes, Monitoring Tools\n- Experience with emerging technologies\n- Contributions to open source\n\nABOUT US:\nWe are a fast-growing tech company focused on innovative solutions.\n",
+    "required_skills": [
+      "Docker",
+      "CI/CD",
+      "Linux",
+      "Cloud Platforms"
+    ],
+    "nice_to_have": [
+      "Kubernetes",
+      "Terraform",
+      "Monitoring Tools",
+      "Python"
+    ],
+    "experience_required": "intermediate",
+    "salary_range": "7-10 LPA"
+  },
+  {
+    "role": "DevOps Engineer",
+    "company": "SmartData Co",
+    "job_description": "\nJOB DESCRIPTION\n===============\n\nCompany: SmartData Co\nPosition: DevOps Engineer\nLocation: Bangalore, India\nSalary: \u20b915-18 LPA\n\nDESCRIPTION:\nDevOps Engineer to manage CI/CD pipelines, infrastructure, and cloud systems.\n\nREQUIREMENTS:\n- 15 years of experience in related field\n- Strong problem-solving skills\n- Team player with good communication\n- Experience with Linux, CI/CD\n\nNICE TO HAVE:\n- Experience with Monitoring Tools, Terraform\n- Experience with emerging technologies\n- Contributions to open source\n\nABOUT US:\nWe are a fast-growing tech company focused on innovative solutions.\n",
+    "required_skills": [
+      "Docker",
+      "CI/CD",
+      "Linux",
+      "Cloud Platforms"
+    ],
+    "nice_to_have": [
+      "Kubernetes",
+      "Terraform",
+      "Monitoring Tools",
+      "Python"
+    ],
+    "experience_required": "intermediate",
+    "salary_range": "15-18 LPA"
+  }
+]
